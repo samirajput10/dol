@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Lumiere — AI 3D Fashion Doll Studio",
+  "description": "Create a personalized animated 3D fashion doll from four photographs and customize outfits, hairstyles, makeup, nail art, jewelry, poses, and studio photoshoots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
